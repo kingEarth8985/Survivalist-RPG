@@ -1,8 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://doda71apgf4nf"]
-
-[ext_resource type="Texture2D" uid="uid://dyk5yw8ngktok" path="res://art/ui/hud/heart_full.png" id="1_e37to"]
-
-[node name="Heart" type="Sprite2D"]
-position = Vector2(49, 50)
-scale = Vector2(4.5, 4.5)
-texture = ExtResource("1_e37to")
